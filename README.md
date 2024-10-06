@@ -24,10 +24,15 @@
 </div>
 
 # LawAI Models
+## <a href="https://huggingface.co/StarUniver/Qwen-LawLLM">LawAI-Qwen</a>
+- **Base Model**:Based on `Qwen7b`.
+- **Enhancements**: Significantly increased training data volume and rounds (about **2** days of training).
+- **Limitation**:Partial overfitting occurs(Caused by **2w** pairs of Q&A with **30** epochs of training).
 ## <a href="https://huggingface.co/StarUniver/lawllm-gguf">LawAI-7B</a>
 - **Base Model**:Based on `llama3`.
 - **Enhancements**: Trained for non-professional legal knowledge Q&A (**2** hours of training).
-- **Limitation**:Limited support for Chinese and limited dataset (**8000** pairs of non-professional questions).
+- **Limitation**:Limited support for Chinese and limited dataset (**8000** pairs of non-professional Q&A).
+
 
 # Introduction
 Large Language Models (LLMs) have demonstrated strong universality in various fields. However, in vertical domains such as the legal field, the performance of these large models often leaves much to be desired. The reason lies in the fact that the legal field involves a vast amount of professional knowledge, complex legal principles, and highly refined rules and practices. Relying solely on general-purpose large models makes it difficult to achieve the ideal effect of legal consulting services.
