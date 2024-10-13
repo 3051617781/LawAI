@@ -5,7 +5,7 @@
     <img width="15%" alt="favicon" src="https://github.com/user-attachments/assets/5bc185f0-aeec-4f75-88c5-61c46ce8fd23">
   </a>
   <p align="center">
-    <h3>法之昭然于天下者，律则凛然于人心</h3>
+    <h3>法之昭昭，其路遥遥</h3>
     <a href="https://github.com/3051617781/LawAI/graphs/contributors">
         <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/3051617781/LawAI" />
       </a>
